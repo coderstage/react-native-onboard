@@ -1,0 +1,16 @@
+{
+  "name": "react-native-onboard",
+  "version": "1.0.0",
+  "description": "A customizable onboarding screens",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Ruel Mindo",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
